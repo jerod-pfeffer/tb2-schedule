@@ -1,9 +1,9 @@
 {
   "version": 1,
   "config": {
-    "startHour": 7,
-    "endHour": 19,
-    "blockHours": 2,
+    "startHour": 8,
+    "endHour": 20,
+    "blockHours": 3,
     "groups": [
       {
         "id": "mf13",
