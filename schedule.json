@@ -18,12 +18,5 @@
     ]
   },
   "recurring": [],
-  "overrides": {
-    "2026-08-18": {
-      "12": {
-        "type": "mf17",
-        "note": ""
-      }
-    }
-  }
+  "overrides": {}
 }
