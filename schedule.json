@@ -40,6 +40,12 @@
       "start": 16,
       "type": "mf17",
       "note": ""
+    },
+    {
+      "dow": 2,
+      "start": 18,
+      "type": "mf17",
+      "note": ""
     }
   ],
   "overrides": {
