@@ -22,7 +22,14 @@
       }
     ]
   },
-  "recurring": [],
+  "recurring": [
+    {
+      "dow": 1,
+      "start": 8,
+      "type": "mf50",
+      "note": "Dad Session"
+    }
+  ],
   "overrides": {
     "2026-08-21": {
       "10": {
