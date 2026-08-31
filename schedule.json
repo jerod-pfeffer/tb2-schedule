@@ -34,6 +34,12 @@
       "start": 8,
       "type": "mf50",
       "note": "Dad Session"
+    },
+    {
+      "dow": 2,
+      "start": 16,
+      "type": "mf17",
+      "note": ""
     }
   ],
   "overrides": {
