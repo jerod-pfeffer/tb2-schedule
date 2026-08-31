@@ -14,6 +14,11 @@
         "id": "mf17",
         "label": "M/F17",
         "short": "M/F17"
+      },
+      {
+        "id": "mf50",
+        "label": "M/F50",
+        "short": "M/F50"
       }
     ]
   },
